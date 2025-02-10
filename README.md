@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Przybylskk1
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Python
 - 📫 How to reach me przybylskk1@gmail.com
 
 <!---
